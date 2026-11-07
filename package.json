@@ -1,0 +1,11 @@
+{
+  "name": "worklets-captured-e-repro",
+  "private": true,
+  "scripts": {
+    "repro": "node repro.cjs"
+  },
+  "dependencies": {
+    "@babel/core": "^7.28.0",
+    "react-native-worklets": "0.13.1"
+  }
+}
